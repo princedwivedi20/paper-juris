@@ -2,5 +2,7 @@
   "name": "Paper Juris",
   "description": "Indian Court Document Intelligence Platform that transforms lengthy court judgments, orders, and filings into structured, evidence-backed case insights.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
